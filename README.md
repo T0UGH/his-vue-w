@@ -111,4 +111,4 @@ npm run serve
 
 ### 4 演示地址
 
-http://101.200.147.122:8080
+http://101.200.147.122:8080 使用user: doctor, password: doctor登陆
